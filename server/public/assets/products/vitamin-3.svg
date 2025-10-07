@@ -1,0 +1,14 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="24" fill="#F8FAFC" />
+  <g transform="translate(40,30)">
+    <rect x="24" y="8" width="72" height="144" rx="36" fill="url(#grad3)" opacity="0.92" />
+    <circle cx="60" cy="60" r="28" fill="#FFFFFF" opacity="0.85" />
+    <text x="60" y="120" text-anchor="middle" font-size="22" font-family="'Inter', sans-serif" fill="#1e293b">V3</text>
+  </g>
+</svg>
